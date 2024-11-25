@@ -1,0 +1,15 @@
+h3{
+    color: aqua;
+}
+
+h3:hover{
+    color: black;
+    background-color: brown;
+}
+input:focus{
+    color: blueviolet;
+}
+
+a:visited{
+    color: aqua;
+}
