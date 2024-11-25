@@ -13,3 +13,24 @@ input:focus{
 a:visited{
     color: rgb(1, 2, 2);
 }
+
+.box{
+    border: dotted palevioletred;
+    width: 200px;
+}
+/* .ring{
+    position: relative;
+    top: 30px;
+} */
+.ring
+{   position: absolute;
+    top: 40px;
+}
+.swim-container{
+    position: relative;
+}
+.dummy{
+    height: 200px;
+    width: 200px;
+    border: solid 1px;
+}
