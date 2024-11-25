@@ -15,7 +15,7 @@ a:visited{
 }
 
 .box{
-    border: dotted palevioletred;
+    border: 1px dotted palevioletred;
     width: 200px;
 }
 /* .ring{
