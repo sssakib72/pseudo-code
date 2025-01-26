@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+nav > ul > li{
+    display: inline;
+    margin-left: 80px;
+}
+
+nav li > a{
+    text-decoration: none;
+    color: rgb(90, 82, 72);
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+#head{
+    text-align: center;
+}
+
+table{
+    background: linear-gradient(90deg, rgba(63,94,251,1) 0%, rgba(160,204,175,1) 0%);
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-style: oblique;
+}
+
+td,th{
+    border: solid 1px;
+    padding: 10px 20px;
+}
+
+label{
+    display: block;
+    padding: 10px;
+}
+
+.form{
+    background: linear-gradient(90deg, rgba(11,40,45,1) 0%, rgba(130,130,247,1) 0%, rgba(188,240,250,1) 100%);
+    text-align: center;
+    margin: 0 auto;
+    background-color: aqua;
+    width: 300px;
+    height: 180px;
+    padding: 30px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+    margin-top: 15px;
+}
+input{
+    border: none;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+span{
+    color: rgb(109, 230, 252);
+    font-size: larger;
+    
+}
+
+header{
+    padding: 10px;
+    height: 100px;
+    
+}
+body{
+    background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(237,168,182,1) 100%);
+}
+h1{
+    color:rgb(43, 48, 78);
+    font-style: italic;
+}
+
+button{
+    color: rgb(99, 109, 89);
+    background: rgb(176, 184, 233);
+    padding: 7px;
+    border-radius: 8px;
+}
+
